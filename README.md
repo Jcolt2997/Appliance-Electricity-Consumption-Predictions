@@ -7,4 +7,4 @@
   The data contains twenty-eight different variables with 19735 rows for intervals of ten minutes for 4.5 months. Different time series methods were utilized in this assessment such as Holt-Winter, multiple linear regression, ARMA, SARIMA, and base model building (average, drift, naïve, and simple exponential smoothing). Of all the methods applied, the model that had the most accurate predictive power was the multiple linear regression model.
 
 
-Please let me know if you have any questions. My email is jakelieberfarb@gmail.com
+Please let me know if you have any questions. My email is *jakelieberfarb@gmail.com.*
